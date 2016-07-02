@@ -2,8 +2,8 @@ import sys
 
 from packing_algorithms.texture_packer import TexturePacker
 from packing_algorithms.texture_packer import PackerError
-from math.rect import Rect
-from math.math import common_interval_length
+from maths.rect import Rect
+from maths.maths import common_interval_length
 
 
 class FreeRectChoiceHeuristicEnum:

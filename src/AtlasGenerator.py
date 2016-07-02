@@ -41,7 +41,7 @@ from util.utils import get_atlas_path
 from util.utils import clear_atlas_dir
 from util.utils import get_color
 from packing_algorithms.texture_packer import PackerError
-from math.math import next_power_of_two
+from maths.maths import next_power_of_two
 
 
 def pack_atlas(args, dirPath, curr_size):

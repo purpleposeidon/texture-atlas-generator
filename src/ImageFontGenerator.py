@@ -38,7 +38,7 @@ from atlas.atlas_data import AtlasData
 from util.utils import get_color
 from util.utils import get_packer
 from util.utils import get_parser
-from math.math import next_power_of_two
+from maths.maths import next_power_of_two
 from packing_algorithms.texture_packer import PackerError
 
 
